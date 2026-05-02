@@ -10,6 +10,11 @@ Schedule your PC's power actions with ease - automatically shut down, restart, o
 - **Simple Interface**: Clean and intuitive user interface
 - **Windows Native**: Built specifically for Windows systems
 
+## Screenshots
+
+![Screenshot 1](screenshots/s1.png)
+![Screenshot 2](screenshots/s2.png)
+
 ## Prerequisites
 
 - **Go** (version 1.18 or higher)
