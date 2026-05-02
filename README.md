@@ -26,7 +26,7 @@ Schedule your PC's power actions with ease - automatically shut down, restart, o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YosriMlik/pc-power-timer
+   git clone https://github.com/YosriMlik/pc-power-timer.git
    cd pc-power-timer
    ```
 
